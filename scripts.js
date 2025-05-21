@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded"), () => {
-    const cards = [
+    const cards = [ //imagem das cartas
     {
         name: 'windows',
         id: 'images/windows.png'
